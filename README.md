@@ -1,1 +1,1 @@
-# pushwoosh-vision-sdk
+# Pushwoosh VisionOS SDK
